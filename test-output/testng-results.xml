@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-03T23:32:45 IST" name="Default suite" finished-at="2022-10-03T23:32:49 IST" duration-ms="4604">
+    <groups>
+    </groups>
+    <test started-at="2022-10-03T23:32:45 IST" name="Default test" finished-at="2022-10-03T23:32:49 IST" duration-ms="4604">
+      <class name="TestScripts.TC_003_GET_RequestHeader">
+        <test-method signature="checkHeaders()[pri:0, instance:TestScripts.TC_003_GET_RequestHeader@48ae9b55]" started-at="2022-10-03T23:32:45 IST" name="checkHeaders" finished-at="2022-10-03T23:32:49 IST" duration-ms="4488" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkHeaders -->
+      </class> <!-- TestScripts.TC_003_GET_RequestHeader -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
